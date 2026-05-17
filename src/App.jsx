@@ -202,8 +202,8 @@ const styles = `
   .word-input:focus { border-color: #b8906a; }
 
   .why-wrapper {
-    background: #d4edff;
-    border-left: 4px solid #5aaadd;
+    background: #f5ede0;
+    border-left: 3px solid #c9a87c;
     border-radius: 0 8px 8px 0;
     padding: 12px 16px;
     margin-top: 16px;
@@ -212,7 +212,7 @@ const styles = `
     font-size: 11px;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: #2277aa;
+    color: #a07850;
     margin-bottom: 6px;
     font-weight: 500;
   }
